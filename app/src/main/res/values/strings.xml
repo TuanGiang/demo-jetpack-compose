@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample NavigationApp</string>
+    <string name="tab_matches">Matches</string>
+    <string name="tab_teams">Teams</string>
+    <string name="title_upcoming">UpComing</string>
+    <string name="title_previous">Previous</string>
+    <string name="message_error_general">Something went wrong!</string>
+</resources>
